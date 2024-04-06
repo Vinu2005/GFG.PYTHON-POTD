@@ -1,7 +1,7 @@
 **GeeksforGeeks Daily Problem of the Day Streak**
 
 **Overview**
-This repository documents my journey of solving the Daily Problem of the Day (POTD) on GeeksforGeeks. Over the past 90 days, I've committed to solving a new problem each day, pushing myself to enhance my problem-solving skills and deepen my understanding of algorithms and data structures.
+This repository documents my journey of solving the Daily Problem of the Day (POTD) on GeeksforGeeks. Over the past many days, I've committed to solving a new problem each day, pushing myself to enhance my problem-solving skills and deepen my understanding of algorithms and data structures.
 
 **Motivation**
 
